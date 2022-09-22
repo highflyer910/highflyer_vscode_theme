@@ -1,8 +1,17 @@
 {
   "name": "highflyer",
-  "displayName": "Highflyer",
-  "description": "",
+  "displayName": "Highflyer theme",
+  "description": "VS Code theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highflyer910/highflyer_VSCode_theme"
+  },
+  "author": {
+		"name": "Teona M",
+		"email": "mushambadzeteona@gmail.com"
+	},
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.71.0"
   },
