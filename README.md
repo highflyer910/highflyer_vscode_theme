@@ -10,8 +10,9 @@
   <img src="assets/colors.png" width="125" />
 </p>
 
-![Screen](Screenshot.png)
-<p>The font in the preview image is Fira Code, [available here](https://github.com/tonsky/FiraCode).</p>
+
+<img src="assets/Screenshot.png"/>    
+<p>The font in the preview image is Fira Code, <a href="https://github.com/tonsky/FiraCode">available here </a></p>
 
 ## Installation
 
