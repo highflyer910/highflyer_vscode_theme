@@ -1,11 +1,12 @@
 {
   "name": "highflyer",
   "displayName": "Highflyer theme",
-  "description": "VS Code theme",
+  "description": "A VS Code theme for highflyers out there.",
   "version": "0.0.1",
+  "publisher": "highflyer910",
   "repository": {
     "type": "git",
-    "url": "https://github.com/highflyer910/highflyer_VSCode_theme"
+    "url": "https://github.com/highflyer910/highflyer_vscode_theme"
   },
   "author": {
 		"name": "Teona M",
@@ -18,6 +19,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#001219",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
