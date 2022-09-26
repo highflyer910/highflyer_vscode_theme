@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="assets/icon.png" width="80" />
+  <img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155015/icon_isbzgo.png" width="80" />
   <h2 align="center">High Flyer Theme 🪁</h2>
 </p>
 
 <p align="center">A Visual Studio Code theme for all highflyers out there.</p>
 
 <p align="center">
-  <img src="assets/color.png" width="125" />
+  <img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155015/colors_vvxfmu.png" width="125" />
 </p>
 
 
-<img src="assets/screenshot.png"/>    
+<img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155016/Screenshot_sa1li6.png"/>    
 <p>The font in the preview image is Fira Code, <a href="https://github.com/tonsky/FiraCode">available here </a></p>
 
 ## Installation
