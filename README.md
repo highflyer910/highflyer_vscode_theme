@@ -21,3 +21,32 @@
 3.  Choose **Extensions** from menu
 4.  Search for `highflyer theme`
 5.  Click **Install** to install it
+6. From the menu bar click: Code > Preferences > Color Theme > `Highflyer theme`
+
+
+## Contribution optimize VScode theme colors for other languages
+
+If you want to contribute to this project, you can optimize the colors for other languages. To do this, you need to follow these steps:
+
+1.  Fork this repository
+2.  Clone your forked repository
+3.  Open the folder in Visual Studio Code
+4.  Open the file `highflyer-theme.json`
+5.  Add your changes
+6.  Commit your changes
+7.  Push your changes
+8.  Create a pull request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
