@@ -24,9 +24,13 @@
 6. From the menu bar click: Code > Preferences > Color Theme > `Highflyer theme`
 
 
-## Contribution optimize VScode theme colors for other languages
+## Contribution
 
-If you want to contribute to this project, you can optimize the colors for other languages. To do this, you need to follow these steps:
+If you want to contribute to this project, feel free to open an issue. 
+
+Also you can optimize the colors for other languages. 
+
+To do this, you need to follow these steps:
 
 1.  Fork this repository
 2.  Clone your forked repository
@@ -36,6 +40,12 @@ If you want to contribute to this project, you can optimize the colors for other
 6.  Commit your changes
 7.  Push your changes
 8.  Create a pull request
+
+I can't wait to see what you create ✨
+
+## License
+
+This theme is released under the MIT License.
 
 
 
