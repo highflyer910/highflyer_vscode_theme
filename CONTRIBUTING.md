@@ -8,7 +8,6 @@ If you want to contribute to this project:
 
 * Submit pull requests to optimize the theme colors for other programming languages. 
 
-* Do you have any other idea to help? Feel free to!
 
 To do this, you need to follow these steps:
 

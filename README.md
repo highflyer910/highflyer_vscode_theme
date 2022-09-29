@@ -39,12 +39,12 @@
 
 ## Contribution
 
-I'm really happy to consider any contributions to this theme. Before you make any changes, check the [CONTRIBUTING.md]() file, please.
+I'm really happy to consider any contributions to this theme. Before you make any changes, check the [CONTRIBUTING.md](https://github.com/highflyer910/highflyer_vscode_theme/blob/master/CONTIBUTING.md) file, please.
 
 
 ## License
 
-This theme is released under the MIT License.
+This theme is released under the [MIT License](https://lbesson.mit-license.org/).
 
 
 
