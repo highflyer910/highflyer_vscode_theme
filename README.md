@@ -1,10 +1,11 @@
+[![version](https://vsmarketplacebadge.apphb.com/version/highflyer910.highflyer.svg)](https://marketplace.visualstudio.com/items?itemName=highflyer910.highflyer)
 
 <p align="center">
   <img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155015/icon_isbzgo.png" width="80" />
   <h2 align="center">High Flyer Theme 🪁</h2>
 </p>
 
-<p align="center">A Visual Studio Code theme for all highflyers out there.</p>
+<p align="center">A Cute Visual Studio Code theme for all highflyers out there.</p>
 
 <p align="center">
   <img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155015/colors_vvxfmu.png" width="125" />
@@ -12,36 +13,34 @@
 
 
 <img src="https://res.cloudinary.com/highflyer910/image/upload/v1664155016/Screenshot_sa1li6.png"/>    
-<p>The font in the preview image is Fira Code, <a href="https://github.com/tonsky/FiraCode">available here </a></p>
+<p>The font in the preview image is Fira Code, <a href="https://github.com/tonsky/FiraCode">available here.</a></p>
 
 ## Installation
 
-1.  Install [Visual Studio Code](https://code.visualstudio.com/)
-2.  Launch Visual Studio Code
-3.  Choose **Extensions** from menu
-4.  Search for `highflyer theme`
-5.  Click **Install** to install it
-6. From the menu bar click: Code > Preferences > Color Theme > `Highflyer theme`
+1.  Launch Visual Studio Code
+2.  Open Extensions sidebar panel in VS Code
+3.  Search for `highflyer theme`
+4.  Click **Install** to install it
+5. From the menu bar click: Code > Preferences > Color Theme > `Highflyer theme`
+
+## Color Reference
+
+### Syntax Colors
+
+|                               Color                                | Usage                                           |
+| :----------------------------------------------------------------: | ----------------------------------------------- |
+| ![#d74545](https://via.placeholder.com/10/d74545.png?text=+) `#d74545` | Keywords |
+| ![#2565a1](https://via.placeholder.com/10/2565a1.png?text=+) `#2565a1` | Functions, methods |
+| ![#f9d77e](https://via.placeholder.com/10/f9d77e.png?text=+) `#f9d77e` | Constants, classes |
+| ![#8dbe69](https://via.placeholder.com/10/8dbe69.png?text=+) `#8dbe69` | Strings |
+| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Special functions, operators |
+| ![#0a9396](https://via.placeholder.com/10/0a9396.png?text=+) `#0a9396` | Variables, properties |
 
 
 ## Contribution
 
-If you want to contribute to this project, feel free to open an issue. 
+I'm really happy to consider any contributions to this theme. Before you make any changes, check the [CONTRIBUTING.md]() file, please.
 
-Also you can optimize the colors for other languages. 
-
-To do this, you need to follow these steps:
-
-1.  Fork this repository
-2.  Clone your forked repository
-3.  Open the folder in Visual Studio Code
-4.  Open the file `highflyer-theme.json`
-5.  Add your changes
-6.  Commit your changes
-7.  Push your changes
-8.  Create a pull request
-
-I can't wait to see what you create ✨
 
 ## License
 
