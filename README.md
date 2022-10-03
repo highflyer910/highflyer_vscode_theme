@@ -36,6 +36,8 @@
 | ![#5ccfe6](https://via.placeholder.com/10/5ccfe6.png?text=+) `#5ccfe6` | Special functions, operators |
 | ![#0a9396](https://via.placeholder.com/10/0a9396.png?text=+) `#0a9396` | Variables, properties |
 
+This theme is currently optimized for Java, Javascript, Python, Go, Typescript and Rust.
+
 
 ## Contribution
 
